@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Expandable Text View</string>
+    <string name="collapse">Collapse</string>
+    <string name="expand">Expand</string>
+</resources>
